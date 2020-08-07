@@ -23,5 +23,5 @@
 <ol>
   <li>This http protocol does not contain encrytion, please do not use any real information for practice.</li>
   <li>MonkeyLearn API allows only 300 queries per month for individual use, excessive usage of sign in/out may render exception.</li>
-  <li>Domain has not connected with ip yet.</li>
+  <li>Domain has not been mapped to with ip yet.</li>
 </ol>
